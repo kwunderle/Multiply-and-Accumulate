@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\bin\Debug\MultiAndAccum - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\bin\Debug\MultiAndAccum - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\bin\Debug\MultiAndAccum - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\obj\Debug\MultiAndAccum - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\obj\Debug\MultiAndAccum___Katharine_Wunderle.Form1.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\obj\Debug\MultiAndAccum___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\obj\Debug\MultiAndAccum - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\obj\Debug\MultiAndAccum - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\obj\Debug\MultiAndAccum - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\MultiAndAccum - Katharine Wunderle\obj\Debug\MultiAndAccum - Katharine Wunderle.pdb
